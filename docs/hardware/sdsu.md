@@ -2,16 +2,14 @@
 
 ## About
 
-Older Toyota/Lexus vehicles have limited functionally via openpilot out of the box due to limitations in the car provided hardware, the DSU.&#x20;
+Older Toyota/Lexus vehicles have limited functionality with openpilot due to the limitations in of the built in Driver Support Unit (DSU). For openpilot's longitudinal functionality to work, the DSU must be unplugged.
 
-For openpilot longitudinal functionality to work, the DSU must be unplugged.&#x20;
+### Challenges
 
-### Challanges
+Unplugging the DSU can cause several issues:
 
-Unplugging the DSU can have a few adverse affects.
-
-1. Unplugging the DSU might cause CAN errors, disabling the use of autopilot entirely.
-2. Unplugging the DSU will disable the Automatic Emergency Braking (AEB)&#x20;
+* CAN errors, potentially disabling autopilot entirely.
+* Disabling Automatic Emergency Braking (AEB).
 
 ### Solutions
 

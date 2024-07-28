@@ -2,9 +2,9 @@
 
 ## About
 
-The comma mount is what enables the user to mount the comma device to the windshield.
+The comma mount allows users to attach the Comma device to the windshield.
 
-Many users find it very useful to be able to quickly grab the device off the window and snap it back on via magnetic mount. There are a number of options available from the community members.&#x20;
+Many users appreciate the convenience of a magnetic mount, which enables quick removal and reattachment of the device. Various options are available from community members.&#x20;
 
 ## Purchase
 
