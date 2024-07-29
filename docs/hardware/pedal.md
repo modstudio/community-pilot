@@ -18,6 +18,8 @@ Beartech
 
 Refer to the installation guide below for the Comma Pedal. Ensure your Comma device is running software that supports the pedal.
 
+Reference: [YouTube → Pedal Commander → Accessing the pedal connector](https://youtu.be/Gisbi94opSM?si=H8-fX46Xf-AcuWQm\&t=7)
+
 {% embed url="https://www.figma.com/board/k0BxdkGouE5FyeCBjZRSmG/Camma-Setup?node-id=0-1&t=CnKRu0kSojQWWZZ9-0" %}
 
 ### The New Car Harness Issues
