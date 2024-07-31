@@ -28,6 +28,52 @@ This can be resolved in one of two ways
 
 <table><thead><tr><th width="153">Model</th><th width="283">Location</th><th>Links</th></tr></thead><tbody><tr><td>Lexus ES</td><td>Behind the glove compartment</td><td><a href="https://youtu.be/njlkA-RWzjg?si=wiAEws1p0ojcF1p1&#x26;t=370">YouTube → Beat-Sonic → Removing the glove compartment 1</a><br><a href="https://youtu.be/P01pwrMV5EY?si=8Xev3G6XFegFNKKq&#x26;t=292">YouTube → Beat-Sonic → Removing the glove compartment 2</a></td></tr><tr><td>Lexus IS</td><td>Above the driver's right knee when seated in the driver's seat</td><td></td></tr><tr><td>Lexus RX</td><td>Behind the glove compartment</td><td><a href="https://www.reddit.com/r/Comma_ai/comments/12y0n7k/please_help_lexus_rx350_2019_dsu/">Reddit → Access DSU</a></td></tr><tr><td>Toyota Corolla</td><td>Through the glove compartment behind the head unit</td><td></td></tr></tbody></table>
 
+## Q & A
+
+<details>
+
+<summary>Will stock openpilot work with a SmartDSU</summary>
+
+No, openpilot no longer supports SDSU, use a fork that does support it like FrogPilot or sunnypilot
+
+</details>
+
+<details>
+
+<summary>Will community forks continue to support the SDSU?</summary>
+
+There is obviously no way to know the future, but the forks that currently support it have no plans on dropping support.
+
+</details>
+
+<details>
+
+<summary>If the comma device is unplugged, will the cars stock ACC work?</summary>
+
+Yes, if the comma is unplugged the cars stock ACC will continue to work.
+
+</details>
+
+<details>
+
+<summary>Does the SDSU remove any of the safety features of the DSU</summary>
+
+No, the SDSU keeps all safety features in place, it only filters out ACC messages while the comma is plugged in so that openpilot can take over ACC.
+
+</details>
+
+<details>
+
+<summary>How can I update the firmware on the SDSU</summary>
+
+Flashing the firmware is done with the DFU Key, available from Beartech. [See this link](https://shop.tlbb.ca/products/dfu-key) for more information.&#x20;
+
+For pedal/SDSU firmware, check here: [https://github.com/fraserxiong/panda\_firmware.](https://github.com/fraserxiong/panda\_firmware.)
+
+Tutorial for flashing Pedal: [https://www.youtube.com/watch?v=DNf0OGwXUUQ](https://www.youtube.com/watch?v=DNf0OGwXUUQ)
+
+</details>
+
 ## Reference
 
 Links to code and information regarding the SDSU
