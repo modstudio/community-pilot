@@ -15,6 +15,12 @@
 * [SDSU](hardware/sdsu.md)
 * [Stores](hardware/stores.md)
 
-***
+## Vehicle Specific
 
-* [Glossary](glossary.md)
+* [GM](vehicle-specific/gm.md)
+* [Toyota / Lexus](vehicle-specific/toyota-lexus.md)
+* [Tesla](vehicle-specific/tesla.md)
+
+## Reference
+
+* [Glossary](reference/glossary.md)
