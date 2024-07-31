@@ -8,10 +8,12 @@
 
 ## Hardware
 
+* [CAN filter](hardware/can-filter.md)
 * [Harness](hardware/harness.md)
 * [Mount](hardware/mount.md)
 * [Pedal](hardware/pedal.md)
 * [SDSU](hardware/sdsu.md)
+* [Stores](hardware/stores.md)
 
 ***
 
