@@ -4,7 +4,7 @@ description: Comma Pedal info and products
 
 # Pedal
 
-## Background
+## About
 
 To enable stop-and-go functionality in some vehicles, a Comma Pedal must be installed. This pedal is created and supported by community members, not by comma.ai. It is compatible with [popular forks](../software/popular-forks.md) of the software.
 
@@ -22,7 +22,37 @@ Reference: [YouTube → Pedal Commander → Accessing the pedal connector](https
 
 {% embed url="https://www.figma.com/board/k0BxdkGouE5FyeCBjZRSmG/Camma-Setup?node-id=0-1&t=CnKRu0kSojQWWZZ9-0" %}
 
-### The New Car Harness Issues
+## Q & A
+
+<details>
+
+<summary>Will stock openpilot work with a Comma Pedal</summary>
+
+No, openpilot no longer supports the Comma Pedal, use a fork that does support it like FrogPilot or sunnypilot. Comma Pedal is not manufactured by comma either.&#x20;
+
+</details>
+
+<details>
+
+<summary>Will community forks continue to support the Comma Pedal?</summary>
+
+There is obviously no way to know the future, but the forks that currently support it have no plans on dropping support.
+
+</details>
+
+<details>
+
+<summary>How can I update the firmware on the Comma Pedal</summary>
+
+Flashing the firmware is done with the DFU Key, available from Beartech. [See this link](https://shop.tlbb.ca/products/dfu-key) for more information.&#x20;
+
+For pedal/SDSU firmware, check here: [https://github.com/fraserxiong/panda\_firmware](https://github.com/fraserxiong/panda\_firmware).
+
+Tutorial for flashing Pedal: [https://www.youtube.com/watch?v=DNf0OGwXUUQ](https://www.youtube.com/watch?v=DNf0OGwXUUQ)
+
+</details>
+
+## The New Car Harness Issues
 
 Installing the Comma Pedal requires connection to the car harness via RJ45.
 
