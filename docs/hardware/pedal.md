@@ -58,4 +58,14 @@ Installing the Comma Pedal requires connection to the car harness via RJ45.
 
 **The new** [**harness kit**](https://comma.ai/shop/car-harness) **from comma.ai no longer includes an RJ45 port and is incompatible with the old harness box. Note that the images on the comma.ai website still show the old hardware, but only the new hardware is being sold.**
 
-To use the Comma Pedal, you will need an old harness kit or a community-created one with an RJ45 port. Beartech is currently developing a new harness compatible with the pedal he sells. &#x20;
+To use the Comma Pedal, you will need an old harness kit or a community-created one with an RJ45 port. Beartech is currently developing a solution to use the pedal with the new harness.&#x20;
+
+## Reference
+
+Links to code and information regarding the Comma Pedal
+
+| Link                                                                                                                                        | Info                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [GitHub / fraserxiong / panda\_firmware / main\_pedal\_firmware](https://github.com/fraserxiong/panda\_firmware/tree/main\_pedal\_firmware) | Pedal firmware                                                    |
+| [YouTube / tlbb studio / Flash Comma Pedal in DFU Mode Tutorial](https://www.youtube.com/watch?v=DNf0OGwXUUQ)                               | Tutorial for flashing Comma Pedal                                 |
+| [GitHub / comma.ai / openpilot / wiki / Toyota/Lexus](https://github.com/commaai/openpilot/wiki/Toyota-Lexus)                               | Information regarding Toyota and Lexus integration with openpilot |
