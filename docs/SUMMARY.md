@@ -23,4 +23,5 @@
 
 ## Reference
 
-* [Glossary](reference/glossary.md)
+* [Glossary](reference/glossary/README.md)
+  * [Acronyms](reference/glossary/acronyms.md)
